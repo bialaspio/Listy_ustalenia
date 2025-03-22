@@ -1,0 +1,1 @@
+Skrypt do pobierania danych i generowania List do ustaleń.
